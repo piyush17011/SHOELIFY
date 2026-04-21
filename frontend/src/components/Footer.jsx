@@ -11,12 +11,12 @@ const Footer = () => {
         
             <center><h5>About Us</h5></center>
             <p>
-              SHOPLIFY is your go-to online store for the latest trends in shoes for men, women, and kids. 
+              SHOELIFY is your go-to online store for the latest trends in shoes for men, women, and kids. 
               We offer a wide range of shoes to suit all styles and preferences.
             </p>
         <Row>
           <Col className="text-center">
-            <p className="footer-copy">&copy; {new Date().getFullYear()} SHOPLIFY</p>
+            <p className="footer-copy">&copy; {new Date().getFullYear()} SHOELIFY</p>
           </Col>
         </Row>
       </Container>
