@@ -53,7 +53,7 @@ const NavBar = () => {
     <Navbar collapseOnSelect className="main-nav" style={{ backgroundColor: "#f8f9fa" }}>
       <Container fluid className="main-nav">
 
-        <Navbar.Brand className="nav-logo-text">SHOPLIFY</Navbar.Brand>
+        <Navbar.Brand className="nav-logo-text">SHOELIFY</Navbar.Brand>
 
         <Navbar.Toggle aria-controls="navbarScroll" />
 
