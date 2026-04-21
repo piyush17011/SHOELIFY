@@ -94,7 +94,7 @@ const handleBuyNow = async () => {
       key: data.key,
       amount: data.amount,
       currency: data.currency,
-      name: "SHOPLIFY",
+      name: "SHOELIFY",
       description: "Sneaker purchase",
       order_id: data.orderId,
       handler: async function () {
